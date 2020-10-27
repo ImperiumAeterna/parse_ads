@@ -52,7 +52,7 @@ def RectificationIndex(str, currentIndex):
 
 
 currentTime = time.time()
-wallGet = "https://api.vk.com/method/wall.get?access_token="
+wallGet = "https://api.vk.com/method/wall.get?access_token=" #INPUT YOUR TOKEN AFTER =
 ownerId = '&owner_id=-'
 offsetValue = "&offset="
 otherPar = '&count=1&v=5.92'
